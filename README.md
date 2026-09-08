@@ -18,3 +18,5 @@ https://github.com/fsjuao/Informatica-aplicada-a-logistica/blob/main/operador_tr
 
 <img width="1365" height="473" alt="image" src="https://github.com/user-attachments/assets/7ddd26a8-093a-4908-bb8b-1adf1446fc4a" />
 
+Análise de dados abertos referentes a aquisição de material bibliográfico pela UFRN (https://dados.ufrn.br/dataset/acervo-aquisicao).
+
