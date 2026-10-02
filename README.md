@@ -86,7 +86,7 @@ Este repositório documenta a evolução prática do uso de ferramentas tecnoló
   * [Ver arquivo `.xlsx`](https://github.com/fsjuao/Informatica-aplicada-a-logistica/blob/main/acervo_ufrn_aquisicao_.xlsx)
 
 <p align="center">
-  <<img width="865" height="486" alt="image" src="https://github.com/user-attachments/assets/d302cadd-934d-470e-8d91-61684cc630ba"/>
+  <img width="865" height="486" alt="image" src="https://github.com/user-attachments/assets/d302cadd-934d-470e-8d91-61684cc630ba"/>
 </p>
 
 ---
