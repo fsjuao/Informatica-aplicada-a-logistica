@@ -105,10 +105,3 @@ Este repositório documenta a evolução prática do uso de ferramentas tecnoló
 * **Curso:** Logística
 * **Instituição:** Faculdade de Tecnologia (FATEC)
 * **Disciplina:** Informática Aplicada à Logística
-
-## 5ª atividade
-
-<img width="864" height="485" alt="image" src="https://github.com/user-attachments/assets/725df161-6978-488b-9c9e-51fe8060e429" />
-
-
-https://github.com/fsjuao/Informatica-aplicada-a-logistica/blob/main/acervo_ufrn_aquisicao_.xlsx
