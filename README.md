@@ -21,3 +21,12 @@ Análise de dados abertos referentes a aquisição de material bibliográfico pe
 <img width="1344" height="451" alt="image" src="https://github.com/user-attachments/assets/69aef51d-0ca7-4c34-9d31-82cc7320f068" />
 
 Link: https://github.com/fsjuao/Informatica-aplicada-a-logistica/blob/main/acervo_ufrn_aquisicao_.xlsx
+
+## 4ª atividade
+
+Criação de dasboard em Power BI, referente a dados de transporte multimodal ANTT
+
+<img width="873" height="490" alt="image" src="https://github.com/user-attachments/assets/dd9ef92d-aea5-4b56-86c3-a3a51a5c57ea" />
+
+
+https://github.com/fsjuao/Informatica-aplicada-a-logistica/raw/refs/heads/main/Trabalho%20informatica%2011-09.zip
