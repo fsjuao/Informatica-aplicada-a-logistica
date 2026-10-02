@@ -1,4 +1,4 @@
-# 🚚 Informática Aplicada à Logística
+<img width="862" height="480" alt="image" src="https://github.com/user-attachments/assets/8578caac-f76a-4756-800a-24d913f66e0c" /><img width="862" height="480" alt="image" src="https://github.com/user-attachments/assets/7d010948-a457-470a-80db-b0b8b376fd79" /># 🚚 Informática Aplicada à Logística
 
 > Repositório destinado a reunir os trabalhos, projetos e análises desenvolvidos na disciplina de **Informática Aplicada à Logística** do curso de Logística na **FATEC**.
 
@@ -71,7 +71,7 @@ Este repositório documenta a evolução prática do uso de ferramentas tecnoló
   * [Download do arquivo `.zip`](https://github.com/fsjuao/Informatica-aplicada-a-logistica/raw/refs/heads/main/Trabalho%20informatica%2011-09.zip)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dd9ef92d-aea5-4b56-86c3-a3a51a5c57ea" width="800" alt="Preview Atividade 4" />
+  <img width="862" height="480" alt="image" src="https://github.com/user-attachments/assets/5f564ea1-f5d3-4ec5-9dde-0440a67ae742"/>
 </p>
 
 ---
