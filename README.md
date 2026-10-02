@@ -14,7 +14,7 @@ Modelagem de dados abertos da ANTT utilizando planilhas eletrônicas em excel.
 <img width="872" height="429" alt="image" src="https://github.com/user-attachments/assets/239fe4cc-3925-4520-adc9-f9b83d91c7aa" />
 https://github.com/fsjuao/Informatica-aplicada-a-logistica/blob/main/operador_transporte_multimodal_2808.zip
 
-## 3ª atividade
+## 3ª atividade - Anaálise de transporte multimodal
 
 Análise de dados abertos referentes a aquisição de material bibliográfico pela UFRN (https://dados.ufrn.br/dataset/acervo-aquisicao).
 
@@ -22,7 +22,7 @@ Análise de dados abertos referentes a aquisição de material bibliográfico pe
 
 Link: https://github.com/fsjuao/Informatica-aplicada-a-logistica/blob/main/acervo_ufrn_aquisicao_.xlsx
 
-## 4ª atividade
+## 4ª atividade - Dasboard de dados em BI
 
 Criação de dasboard em Power BI, referente a dados de transporte multimodal ANTT
 
@@ -30,3 +30,10 @@ Criação de dasboard em Power BI, referente a dados de transporte multimodal AN
 
 
 https://github.com/fsjuao/Informatica-aplicada-a-logistica/raw/refs/heads/main/Trabalho%20informatica%2011-09.zip
+
+## 5ª atividade
+
+<img width="864" height="485" alt="image" src="https://github.com/user-attachments/assets/725df161-6978-488b-9c9e-51fe8060e429" />
+
+
+https://github.com/fsjuao/Informatica-aplicada-a-logistica/blob/main/acervo_ufrn_aquisicao_.xlsx
