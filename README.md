@@ -71,7 +71,7 @@ Este repositório documenta a evolução prática do uso de ferramentas tecnoló
   * [Download do arquivo `.zip`](https://github.com/fsjuao/Informatica-aplicada-a-logistica/raw/refs/heads/main/Trabalho%20informatica%2011-09.zip)
 
 <p align="center">
-  <img width="862" height="480" alt="image" src="https://github.com/user-attachments/assets/5f564ea1-f5d3-4ec5-9dde-0440a67ae742"/>
+  <img width="874" height="490" alt="image" src="https://github.com/user-attachments/assets/1843f23c-e52b-41fc-a53b-94180bb09fa2" />
 </p>
 
 ---
