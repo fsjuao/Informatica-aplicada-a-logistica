@@ -99,6 +99,28 @@ Este repositório documenta a evolução prática do uso de ferramentas tecnoló
 * **GitHub:** Versionamento e documentação dos trabalhos praticados.
 
 ---
+# 💻 Prova de Informática
+
+## 📚 Conceitos trabalhados
+
+- **Tratamento de dados no Excel:** remoção de espaços, padronização de textos e exclusão de duplicatas
+- **Tabelas dimensão e fato:** criação das tabelas `dAno`, `dMes`, `dMunicipio`, `dSetor` e `fInvestimentos`
+- **Modelagem em esquema estrela:** relacionamento entre as tabelas no Power BI
+- **Dashboard no Power BI:** mapa, gráfico de barras, gráfico de colunas, funil e cartão
+- **Segmentação de dados:** filtros por ano, mês e setor econômico
+- **Regressão linear simples:** equação da reta e coeficiente de determinação (R²)
+
+**Fonte dos dados:** [Fundação Seade – PIESP](https://repositorio.seade.gov.br/dataset/seade-investimentos)
+
+---
+
+## 🎥 Vídeo demonstrativo
+
+
+https://github.com/user-attachments/assets/2836c960-266e-4c2a-a104-abdb295d7a51
+
+
+
 
 ## 🎓 Instituição
 
