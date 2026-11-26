@@ -91,11 +91,65 @@ Este repositório documenta a evolução prática do uso de ferramentas tecnoló
 
 ---
 
+### 🌍 6ª Atividade — Dashboard com Figuras: Bandeiras dos Países (Power BI)
+* **Descrição:** Evolução do dashboard de expectativa de vida com a criação de uma tabela dimensão de bandeiras (`dBandeira`), contendo o código ISO de cada país e a URL da imagem da sua bandeira, exibida diretamente nos visuais do Power BI.
+* **🛠️ Habilidades & Competências:** 
+  * Criação de tabela dimensão a partir de códigos ISO (ISO-3 → ISO-2)
+  * Relacionamento 1:1 entre dimensões no modelo estrela
+  * Categoria de dados *URL da imagem* e medidas DAX com `LOOKUPVALUE`
+* **💡 Aprendizados:** Uso de imagens externas (URLs) como recurso visual no Power BI, enriquecendo o dashboard sem alterar a tabela fato e mantendo o modelo de dados organizado.
+* **🔗 Links & Recursos:**
+  * [Ver arquivo `.xlsx` (base com a tabela `dBandeira`)](https://github.com/fsjuao/Informatica-aplicada-a-logistica/blob/main/expectativa-vida-bi.xlsx)
+  * [Download do arquivo `.pbix`](https://github.com/fsjuao/Informatica-aplicada-a-logistica/raw/refs/heads/main/dashboard_expectativa_vida_bandeiras.pbix)
+
+<p align="center">
+  <img src="URL_DA_IMAGEM_ATIVIDADE_6" width="800" alt="Preview Atividade 6 - Dashboard com bandeiras" />
+</p>
+
+---
+
+### 🤖 7ª Atividade — Visuais, Regressão Linear e IA
+Atividade dividida em duas partes, com apoio de IA generativa na estruturação dos dados, das medidas e do código.
+
+#### Parte 1 — Dashboard de Expectativa de Vida (Power BI)
+* **Descrição:** Estruturação de uma base mundial de expectativa de vida (1770–2023) em modelo estrela (`fExpectativa`, `dEntidade`, `dAno`) e construção de um dashboard com cartões de média, menor e maior expectativa de vida, ranking dos 10 países mais longevos e gráfico de área com a evolução global.
+* **🛠️ Habilidades & Competências:** 
+  * Separação de países e agregados (continentes, grupos de renda, mundo) para cálculos corretos
+  * Fórmulas de soma e média no Excel e medidas DAX (`AVERAGE`, `MIN`, `MAX`, `CALCULATE`)
+  * Filtro Top N, eixo contínuo, edição de interações e plano de fundo personalizado (1920×1080)
+* **💡 Aprendizados:** A qualidade dos indicadores depende da modelagem: sem separar os agregados dos países, média, mínimo e ranking seriam distorcidos.
+* **🔗 Links & Recursos:**
+  * [Ver arquivo `.xlsx`](https://github.com/fsjuao/Informatica-aplicada-a-logistica/blob/main/expectativa-vida-bi.xlsx)
+  * [Download do arquivo `.pbix`](https://github.com/fsjuao/Informatica-aplicada-a-logistica/raw/refs/heads/main/dashboard_expectativa_vida.pbix)
+
+<p align="center">
+  <img src="URL_DA_IMAGEM_ATIVIDADE_7_PARTE_1" width="800" alt="Preview Atividade 7 - Dashboard de expectativa de vida" />
+</p>
+
+#### Parte 2 — Regressão Linear: Horas de Estudo × Nota da Prova (Excel e Google Colab)
+* **Descrição:** Análise de 200 alunos para responder se mais horas de estudo estão associadas a notas maiores, com gráfico de dispersão e regressão linear simples no Excel e reprodução do modelo em Python no Google Colab.
+* **🛠️ Habilidades & Competências:** 
+  * Gráfico de dispersão com linha de tendência, equação da reta e R² no Excel
+  * Funções estatísticas (`INCLINAÇÃO`, `INTERCEPÇÃO`, `CORREL`, `RQUAD`) e teste de significância
+  * Python (pandas, statsmodels, scikit-learn): validação treino/teste e regressão múltipla
+* **💡 Aprendizados:** Cada hora a mais de estudo está associada, em média, a 1,63 ponto a mais na prova (R² = 0,60; p < 0,001); com sono, frequência e notas anteriores, o R² sobe para 0,84. Associação, porém, não significa causa.
+* **🔗 Links & Recursos:**
+  * [Ver arquivo `.xlsx`](https://github.com/fsjuao/Informatica-aplicada-a-logistica/blob/main/regressao-horas-estudo.xlsx)
+  * [Ver notebook `.ipynb`](https://github.com/fsjuao/Informatica-aplicada-a-logistica/blob/main/regressao_horas_estudo.ipynb)
+  * [Abrir no Google Colab](https://colab.research.google.com/github/fsjuao/Informatica-aplicada-a-logistica/blob/main/regressao_horas_estudo.ipynb)
+
+<p align="center">
+  <img src="URL_DA_IMAGEM_ATIVIDADE_7_PARTE_2" width="800" alt="Preview Atividade 7 - Regressão linear" />
+</p>
+
+---
+
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 
 * **Microsoft Excel:** Modelagem, fórmulas e tratamento de planilhas.
 * **Power BI:** Visualização de dados e criação de dashboards interativos.
 * **Canva:** Design de apresentações e comunicação visual.
+* **Python (Google Colab):** Regressão linear e análise estatística com pandas, statsmodels e scikit-learn.
 * **GitHub:** Versionamento e documentação dos trabalhos praticados.
 
 ---
@@ -121,6 +175,28 @@ https://github.com/user-attachments/assets/2836c960-266e-4c2a-a104-abdb295d7a51
 
 
 
+
+## 🏅 Certificado — Aplicação do Power BI para Aprimoramento da Gestão
+* **Descrição:** Curso complementar sobre o uso do Power BI na análise de dados e no apoio à tomada de decisão gerencial.
+* **🏫 Instituição:** NOME_DA_INSTITUIÇÃO
+* **⏱️ Carga horária:** XX horas
+* **📅 Conclusão:** MÊS/ANO
+* **🔗 Links & Recursos:**
+  * [Ver certificado](https://github.com/fsjuao/Informatica-aplicada-a-logistica/blob/main/certificado_power_bi_gestao.pdf)
+
+<p align="center">
+  <img src="URL_DA_IMAGEM_CERTIFICADO" width="800" alt="Certificado Aplicação do Power BI para Aprimoramento da Gestão" />
+</p>
+
+---
+
+## 🔌 Repositório da API
+* **Descrição:** DESCRIÇÃO_DA_API
+* **🛠️ Tecnologias:** TECNOLOGIAS_DA_API
+* **🔗 Links & Recursos:**
+  * [Acessar repositório da API](https://github.com/fsjuao/NOME_DO_REPOSITORIO_DA_API)
+
+---
 
 ## 🎓 Instituição
 
