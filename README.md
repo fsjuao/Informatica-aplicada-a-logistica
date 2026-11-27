@@ -139,7 +139,9 @@ Atividade dividida em duas partes, com apoio de IA generativa na estruturação 
   * [Abrir no Google Colab](https://colab.research.google.com/github/fsjuao/Informatica-aplicada-a-logistica/blob/main/regressao_horas_estudo.ipynb)
 
 <p align="center">
-  <img src="URL_DA_IMAGEM_ATIVIDADE_7_PARTE_2" width="800" alt="Preview Atividade 7 - Regressão linear" />
+ 
+  <img width="584" height="348" alt="Captura de tela 2026-11-26 225602" src="https://github.com/user-attachments/assets/20560809-8599-4c2c-b6a5-8fa15228b907" />
+
 </p>
 
 ---
