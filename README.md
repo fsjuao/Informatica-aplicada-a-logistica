@@ -120,11 +120,10 @@ Atividade dividida em duas partes, com apoio de IA generativa na estruturação 
   * Filtro Top N, eixo contínuo, edição de interações e plano de fundo personalizado (1920×1080)
 * **💡 Aprendizados:** A qualidade dos indicadores depende da modelagem: sem separar os agregados dos países, média, mínimo e ranking seriam distorcidos.
 * **🔗 Links & Recursos:**
-  * [Ver arquivo `.xlsx`](https://github.com/fsjuao/Informatica-aplicada-a-logistica/blob/main/expectativa-vida-bi.xlsx)
-  * [Download do arquivo `.pbix`](https://github.com/fsjuao/Informatica-aplicada-a-logistica/raw/refs/heads/main/dashboard_expectativa_vida.pbix)
+  * [Ver arquivo `.xlsx`]([https://github.com/fsjuao/Informatica-aplicada-a-logistica/blob/main/expectativa-vida-bi.xlsx](https://github.com/fsjuao/Informatica-aplicada-a-logistica/blob/main/expectativa%20de%20vida.pbix))
 
 <p align="center">
-  <img src="URL_DA_IMAGEM_ATIVIDADE_7_PARTE_1" width="800" alt="Preview Atividade 7 - Dashboard de expectativa de vida" />
+   <img width="886" height="496" alt="Captura de tela 2026-11-25 205751" src="https://github.com/user-attachments/assets/61b1f1ee-9bfd-43c5-8de5-5057a963d135" />
 </p>
 
 #### Parte 2 — Regressão Linear: Horas de Estudo × Nota da Prova (Excel e Google Colab)
@@ -195,7 +194,7 @@ https://github.com/user-attachments/assets/2836c960-266e-4c2a-a104-abdb295d7a51
 * **Descrição:** DESCRIÇÃO_DA_API
 * **🛠️ Tecnologias:** TECNOLOGIAS_DA_API
 * **🔗 Links & Recursos:**
-  * [Acessar repositório da API](https://github.com/fsjuao/NOME_DO_REPOSITORIO_DA_API)
+  * [Acessar repositório da API]([https://github.com/fsjuao/NOME_DO_REPOSITORIO_DA_API](https://github.com/Seven-Soluctions/Observatorio_de_Inovacao/tree/main))
 
 ---
 
