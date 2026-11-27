@@ -1,3 +1,5 @@
+<img width="744" height="526" alt="Certificado_BI_e_aprimoramento_da_gestão" src="https://github.com/user-attachments/assets/3a036fb1-d3ee-4375-87ac-343dd3505ec1" />
+<img width="744" height="526" alt="Certificado_BI_e_aprimoramento_da_gestão" src="https://github.com/user-attachments/assets/45f8c167-51b0-40e9-813b-b1bbb3653452" />
 # 🚚 Informática Aplicada à Logística
 
 > Repositório destinado a reunir os trabalhos, projetos e análises desenvolvidos na disciplina de **Informática Aplicada à Logística** do curso de Logística na **FATEC**.
@@ -185,7 +187,9 @@ https://github.com/user-attachments/assets/2836c960-266e-4c2a-a104-abdb295d7a51
   * [Ver certificado]([https://github.com/fsjuao/Informatica-aplicada-a-logistica/blob/main/certificado_power_bi_gestao.pdf](https://github.com/fsjuao/Informatica-aplicada-a-logistica/blob/main/aplicacao_do_power_bi_para_aprimoramento_da_gestao_turma_out2026_certificado.pdf))
 
 <p align="center">
-  <img src="URL_DA_IMAGEM_CERTIFICADO" width="800" alt="Certificado Aplicação do Power BI para Aprimoramento da Gestão" />
+ 
+  <img width="744" height="526" alt="Certificado_BI_e_aprimoramento_da_gestão" src="https://github.com/user-attachments/assets/b367a469-42e0-4af0-bbd4-7a6ff6002e05" />
+
 </p>
 
 ---
