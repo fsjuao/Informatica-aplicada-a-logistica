@@ -1,5 +1,3 @@
-<img width="744" height="526" alt="Certificado_BI_e_aprimoramento_da_gestão" src="https://github.com/user-attachments/assets/3a036fb1-d3ee-4375-87ac-343dd3505ec1" />
-<img width="744" height="526" alt="Certificado_BI_e_aprimoramento_da_gestão" src="https://github.com/user-attachments/assets/45f8c167-51b0-40e9-813b-b1bbb3653452" />
 # 🚚 Informática Aplicada à Logística
 
 > Repositório destinado a reunir os trabalhos, projetos e análises desenvolvidos na disciplina de **Informática Aplicada à Logística** do curso de Logística na **FATEC**.
