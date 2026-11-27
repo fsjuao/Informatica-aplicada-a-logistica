@@ -131,7 +131,60 @@ Este repositório documenta a evolução prática do uso de ferramentas tecnoló
 
 ---
 
-### Atividade 7 — Visuais, regressão linear e IA (Power BI, Excel e Google Colab)
+### Atividade 7 — Regressão linear: vendas de sorvete (Excel e Google Colab)
+
+Análise da relação entre a temperatura e a receita de vendas de sorvete a partir de um dataset da plataforma Kaggle, realizada em duas ferramentas para comparação dos resultados.
+
+#### Parte 1 — Tratamento de dados e modelagem no Excel
+
+**Descrição:** extração de um dataset bruto do Kaggle, descompactação dos arquivos e conversão do CSV em planilha estruturada no Excel com o recurso Texto para Colunas (separação por vírgula). Em seguida, construção de um gráfico de dispersão com a temperatura no eixo X e a receita no eixo Y e aplicação de uma linha de tendência linear para a análise visual inicial.
+
+**Habilidades e competências:**
+- Importação e estruturação de dados brutos (CSV) no Excel
+- Uso do recurso Texto para Colunas
+- Gráfico de dispersão com linha de tendência, equação da reta e R²
+
+**Resultado:** Receita = 20,892 × Temperatura + 50,231, com R² = 0,8646.
+
+<p align="center">
+
+  <!-- INSERIR AQUI A IMAGEM 1: gráfico de dispersão do Excel (arraste o print para esta linha) -->
+
+  <br />
+  <em>Dispersão e regressão linear no Excel</em>
+</p>
+
+#### Parte 2 — Automação e validação no Google Colab (Python)
+
+**Descrição:** para comparar as ferramentas, o mesmo experimento foi replicado em Python. Em um novo notebook no Google Colab, com o auxílio de IA, foi estruturado um código que importou os mesmos dados do Kaggle, tratou o dataset e gerou um novo gráfico de regressão linear com a equação da reta e o coeficiente de determinação (R²), validando e comparando os resultados obtidos no Excel.
+
+**Habilidades e competências:**
+- Importação e tratamento de dados com Python (pandas)
+- Ajuste de regressão linear e cálculo do R²
+- Visualização de dados com gráfico de dispersão e reta de regressão
+
+**Resultado:** Receita = 21,44 × Temperatura + 44,30, com R² = 0,9798.
+
+<p align="center">
+
+  <!-- INSERIR AQUI A IMAGEM 2: gráfico de dispersão do Google Colab (arraste o print para esta linha) -->
+
+  <br />
+  <em>Dispersão e regressão linear no Google Colab</em>
+</p>
+
+**Aprendizados:** a temperatura tem forte relação positiva com a receita: cada grau a mais está associado a cerca de R$ 21 a mais em vendas. A diferença entre os modelos vem do tratamento dos dados. No Excel, alguns registros com receita próxima de zero (valores atípicos) puxam a reta para baixo e reduzem o R² para 0,86. No Colab, sem esses registros, o R² sobe para 0,98. Isso mostra como a limpeza dos dados influencia diretamente o resultado da regressão.
+
+<!--
+**Links e recursos:**
+- [Dataset no Kaggle](URL_DO_DATASET)
+- [Ver o arquivo `.xlsx`](URL_DO_ARQUIVO)
+- [Abrir o notebook no Google Colab](URL_DO_NOTEBOOK)
+-->
+
+---
+
+### Atividade 8 — Visuais, regressão linear e IA (Power BI, Excel e Google Colab)
 
 Atividade dividida em duas partes, com apoio de IA generativa na estruturação dos dados, das medidas e do código.
 
