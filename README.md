@@ -178,11 +178,11 @@ https://github.com/user-attachments/assets/2836c960-266e-4c2a-a104-abdb295d7a51
 
 ## 🏅 Certificado — Aplicação do Power BI para Aprimoramento da Gestão
 * **Descrição:** Curso complementar sobre o uso do Power BI na análise de dados e no apoio à tomada de decisão gerencial.
-* **🏫 Instituição:** NOME_DA_INSTITUIÇÃO
-* **⏱️ Carga horária:** XX horas
-* **📅 Conclusão:** MÊS/ANO
+* **🏫 Instituição:** Escola Nacional de Administração Pública
+* **⏱️ Carga horária:** 25 horas
+* **📅 Conclusão:** Outubro/2026
 * **🔗 Links & Recursos:**
-  * [Ver certificado](https://github.com/fsjuao/Informatica-aplicada-a-logistica/blob/main/certificado_power_bi_gestao.pdf)
+  * [Ver certificado]([https://github.com/fsjuao/Informatica-aplicada-a-logistica/blob/main/certificado_power_bi_gestao.pdf](https://github.com/fsjuao/Informatica-aplicada-a-logistica/blob/main/aplicacao_do_power_bi_para_aprimoramento_da_gestao_turma_out2026_certificado.pdf))
 
 <p align="center">
   <img src="URL_DA_IMAGEM_CERTIFICADO" width="800" alt="Certificado Aplicação do Power BI para Aprimoramento da Gestão" />
