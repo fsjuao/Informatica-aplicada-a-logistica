@@ -148,7 +148,7 @@ Análise da relação entre a temperatura e a receita de vendas de sorvete a par
 
 <p align="center">
 
-  <!-- INSERIR AQUI A IMAGEM 1: gráfico de dispersão do Excel (arraste o print para esta linha) -->
+  <img width="772" height="392" alt="image" src="https://github.com/user-attachments/assets/e364f2cd-a34a-4c5b-b236-626be3c74fad" />
 
   <br />
   <em>Dispersão e regressão linear no Excel</em>
@@ -167,7 +167,7 @@ Análise da relação entre a temperatura e a receita de vendas de sorvete a par
 
 <p align="center">
 
-  <!-- INSERIR AQUI A IMAGEM 2: gráfico de dispersão do Google Colab (arraste o print para esta linha) -->
+  <img width="833" height="474" alt="image" src="https://github.com/user-attachments/assets/49dde2f7-49f0-472a-870d-c9803e910b2b" />
 
   <br />
   <em>Dispersão e regressão linear no Google Colab</em>
