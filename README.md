@@ -194,7 +194,7 @@ https://github.com/user-attachments/assets/2836c960-266e-4c2a-a104-abdb295d7a51
 * **Descrição:** DESCRIÇÃO_DA_API
 * **🛠️ Tecnologias:** TECNOLOGIAS_DA_API
 * **🔗 Links & Recursos:**
-  * [Acessar repositório da API]([https://github.com/fsjuao/NOME_DO_REPOSITORIO_DA_API](https://github.com/Seven-Soluctions/Observatorio_de_Inovacao/tree/main))
+  * [Acessar repositório da API](https://github.com/Seven-Soluctions/Observatorio_de_Inovacao/tree/main)
 
 ---
 
