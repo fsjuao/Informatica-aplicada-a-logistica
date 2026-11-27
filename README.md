@@ -99,11 +99,12 @@ Este repositório documenta a evolução prática do uso de ferramentas tecnoló
   * Categoria de dados *URL da imagem* e medidas DAX com `LOOKUPVALUE`
 * **💡 Aprendizados:** Uso de imagens externas (URLs) como recurso visual no Power BI, enriquecendo o dashboard sem alterar a tabela fato e mantendo o modelo de dados organizado.
 * **🔗 Links & Recursos:**
-  * [Ver arquivo `.xlsx` (base com a tabela `dBandeira`)](https://github.com/fsjuao/Informatica-aplicada-a-logistica/blob/main/expectativa-vida-bi.xlsx)
-  * [Download do arquivo `.pbix`](https://github.com/fsjuao/Informatica-aplicada-a-logistica/raw/refs/heads/main/dashboard_expectativa_vida_bandeiras.pbix)
-
+  * [Ver arquivo `.xlsx` (base com a tabela `dBandeira`)]([https://github.com/fsjuao/Informatica-aplicada-a-logistica/blob/main/expectativa-vida-bi.xlsx](https://github.com/fsjuao/Informatica-aplicada-a-logistica/blob/main/expectativa%20de%20vida_bandeiras.pbix))
+ 
 <p align="center">
-  <img src="URL_DA_IMAGEM_ATIVIDADE_6" width="800" alt="Preview Atividade 6 - Dashboard com bandeiras" />
+ 
+ <img width="868" height="490" alt="Captura de tela 2026-11-26 154258" src="https://github.com/user-attachments/assets/37a1efae-f415-4f76-a7f3-a5e33238c63b" />
+
 </p>
 
 ---
